@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/modules/firetv/libs/WhisperPlay.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/modules/firetv/libs/WhisperPlay.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
